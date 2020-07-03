@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #E0B0FF;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #000080;
     border-radius: 0;
     border: 0;
 }
@@ -45,13 +45,13 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #CCCCFF;
 }
 
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: 	#CC8899;
     font-size: 1.2em;
 }
 
@@ -88,10 +88,10 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#chineese-tile, #mughlai-tile, #italian-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #F7E7CE;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
